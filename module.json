@@ -1,0 +1,41 @@
+{
+  "id": "quick-draw",
+  "title": "Quick Draw",
+  "description": "Press a hotkey to draw temporary annotations on the canvas. Drawings fade away after a configurable duration and are visible to all players in real time.",
+  "version": "1.1.2",
+  "compatibility": {
+    "minimum": "10",
+    "verified": "12",
+    "maximum": "14"
+  },
+  "authors": [
+    {
+      "name": "petkerk"
+    }
+  ],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    },
+    {
+      "lang": "ru",
+      "name": "Russian",
+      "path": "lang/ru.json"
+    },
+    {
+      "lang": "ua",
+      "name": "Ukranian",
+      "path": "lang/ua.json"
+    }
+  ],
+  "esmodules": [
+    "scripts/module.js"
+  ],
+  "styles": [
+    "styles/toolbar.css"
+  ],
+  "socket": true,
+  "flags": {}
+}

@@ -1,0 +1,11 @@
+{
+  "QUICKDRAW.SettingsActivationKeyName": "Клавиша активации (тулбар)",
+  "QUICKDRAW.SettingsActivationKeyHint": "Клавиша для вызова тулбара (например, KeyQ).",
+  "QUICKDRAW.SettingsActivationModeName": "Режим активации",
+  "QUICKDRAW.SettingsActivationModeHint": "Hold — пока держите Q. Toggle — переключение нажатием.",
+  "QUICKDRAW.SettingsDrawingKeyName": "Клавиша рисования",
+  "QUICKDRAW.SettingsDrawingKeyHint": "Зажмите эту клавишу для рисования (AltLeft, ControlLeft и т.д.).",
+  "QUICKDRAW.SettingsFadeDurationName": "Задержка исчезновения (сек)",
+  "QUICKDRAW.SettingsFadeOutMsName": "Скорость исчезновения (мс)",
+  "QUICKDRAW.SettingsUsePlayerColorName": "Цвет игрока по умолчанию"
+}

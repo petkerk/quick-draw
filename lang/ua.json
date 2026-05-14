@@ -1,0 +1,11 @@
+{
+  "QUICKDRAW.SettingsActivationKeyName": "Клавіша активації (тулбар)",
+  "QUICKDRAW.SettingsActivationKeyHint": "Клавіша для виклику панелі інструментів (наприклад, KeyQ).",
+  "QUICKDRAW.SettingsActivationModeName": "Режим активації",
+  "QUICKDRAW.SettingsActivationModeHint": "Hold — поки тримаєте Q. Toggle — увімкнути/вимкнути натисканням.",
+  "QUICKDRAW.SettingsDrawingKeyName": "Клавіша малювання",
+  "QUICKDRAW.SettingsDrawingKeyHint": "Затисніть цю клавішу для малювання (наприклад, AltLeft, ControlLeft, KeyR).",
+  "QUICKDRAW.SettingsFadeDurationName": "Затримка зникнення (сек)",
+  "QUICKDRAW.SettingsFadeOutMsName": "Швидкість зникнення (мс)",
+  "QUICKDRAW.SettingsUsePlayerColorName": "Колір гравця за замовчуванням"
+}

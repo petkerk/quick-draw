@@ -53,3 +53,22 @@ Copy this manifest link into your Foundry VTT Module Manager:
 
 This module is licensed under the **MIT License**.
 Этот модуль распространяется под лицензией **MIT**.
+
+---
+
+## ☕ Support the Project / Поддержать проект
+
+If you find this module useful and want to support its development, you can buy me a coffee or send some crypto. Any support is greatly appreciated! ❤️
+
+Если вам полезен этот модуль и вы хотите поддержать его развитие, можете «задонатить на кофе» или закинуть крипты. Буду очень благодарен! ❤️
+
+### Crypto Addresses:
+
+* **BTC:** `bc1qs083tkvcc9de7wnwe6a8wywvyzcg803ys4q8f6`
+* **ETH / USDT (ERC20/BEP20):** `0xFFc2c757591D2A77D990E2E405d50DA6B105459C`
+* **TON:** `UQBYiWU-HIx7tg1uN85E6Oa2ek5BBR0JDgINs3yOPMojdRYD`
+* **SOL:** `DbpvYT65FP5ZXVGvkiKQh9Wk7aE4rNwMY9ENjPdGxAvj`
+* **USDT TRC20:** `TRiar6KuEtWFrqVCYqhN1ezLRwp7qZLv2P`
+* **LTC:** `ltc1qywfuty0z32wl35ndhl2kjawe98zdqce2wylacd`
+
+---

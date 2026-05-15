@@ -1,7 +1,9 @@
 # 🖌️ Quick Draw for Foundry VTT
 
-![Foundry Version](https://img.shields.io/badge/Foundry-v12%2B-orange)
+![Foundry Version](https://img.shields.io/badge/Foundry-v12-orange)
 ![License](https://img.shields.io/badge/License-MIT-blue)
+
+**Quick Draw** is a lightweight module for drawing temporary annotations on the canvas. Perfect for GMs and players who need to quickly point out directions or areas without cluttering the map with permanent drawings.
 
 **Quick Draw** — это легкий модуль для быстрого рисования временных аннотаций на холсте. Идеально подходит для мастеров и игроков, которым нужно быстро показать направление или область, не оставляя при этом перманентных рисунков на карте.
 

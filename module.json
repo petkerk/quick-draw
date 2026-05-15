@@ -2,16 +2,28 @@
   "id": "quick-draw",
   "title": "Quick Draw",
   "description": "Press a hotkey to draw temporary annotations on the canvas. Drawings fade away after a configurable duration and are visible to all players in real time.",
-  "version": "1.1.2",
+  "version": "1.0.0",
+  "library": false,
+  "manifest": "https://github.com/petkerk/quick-draw/releases/latest/download/module.json",
+  "download": "https://github.com/petkerk/quick-draw/releases/latest/download/quick-draw.zip",
+  "readme": "https://github.com/petkerk/quick-draw/blob/main/README.md",
+  "license": "LICENSE",
   "compatibility": {
-    "minimum": "10",
+    "minimum": "12",
     "verified": "12",
     "maximum": "14"
   },
   "authors": [
     {
-      "name": "petkerk"
+      "name": "petkerk",
+      "url": "https://github.com/petkerk"
     }
+  ],
+  "esmodules": [
+    "scripts/module.js"
+  ],
+  "styles": [
+    "styles/toolbar.css"
   ],
   "languages": [
     {
@@ -26,16 +38,10 @@
     },
     {
       "lang": "ua",
-      "name": "Ukranian",
+      "name": "Ukrainian",
       "path": "lang/ua.json"
     }
   ],
-  "esmodules": [
-    "scripts/module.js"
-  ],
-  "styles": [
-    "styles/toolbar.css"
-  ],
-  "socket": true,
+  "sockets": true,
   "flags": {}
 }
